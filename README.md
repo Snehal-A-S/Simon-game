@@ -7,7 +7,7 @@ To get started,follow this steps:
 - Open the index.html file in your browser.
 - Start playing the game by following the instruction on the screen.
 
-Screenshot:
+Check out screenshot of game in action: 
 
 ![Screenshot (3)](https://github.com/Snehal-A-S/Simon-game/assets/151122441/ecaaf94e-531a-408e-96e0-328de59effdd)
 
