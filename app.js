@@ -41,7 +41,7 @@ function checkAns(idx){
     // let idx = level-1;
     if(gameSeq[idx]===userSeq[idx]){
          if(gameSeq.length==userSeq.length){
-            setTimeout(levelUp(),1000);
+            setTimeout(levelUp,1000);
          }
     }else{
         h3.innerHTML=`Game over!Your score was <b>${level}</b>.<br>Press any key to start game`;
